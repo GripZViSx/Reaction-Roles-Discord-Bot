@@ -1,4 +1,5 @@
 # Reaction-Roles-Discord-Bot
+**Startup**
 To Start, Fork This Repo To Your Host And Do The Following Steps
 - Create a file named `.env`
 - Paste The Following Things In That File
@@ -16,6 +17,10 @@ CLIENT_ID=
 ```
 - In The Value Of `CLIENT_ID` Put The Bot Id Of Your Bot. You Can Get On The [Discord Developer Portal](https://discord.com/developers/applications).
 
+- Go To [This](https://github.com/GripZViSx/Reaction-Roles-Discord-Bot/blob/main/src/config/webhooks.json) Section Of File
+- Create A Webhook in your Discord server and make a logging channel for your bot . Make a webhook in that channel and copy it's link.
+- Now To Get *id* and *token* do the following steps in this video given below.
+- 
 After Doing All Just Join My Discord Server
 https://dsc.gg/stacx-dev
 *Help Is Provided In The Server*
