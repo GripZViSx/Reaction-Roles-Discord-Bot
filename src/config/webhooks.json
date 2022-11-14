@@ -1,0 +1,58 @@
+{
+    "startLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "shardLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "errorLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "dmLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "voiceLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "serverLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "serverLogs2": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "commandLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "consoleLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "warnLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "voiceErrorLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "creditLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "evalLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    },
+    "interactionLogs": {
+        "id": "949876556883439676",
+        "token": "T5eADYMx_kae0MjFLVPOSvR4aHzuEdgiTlQVX1oWAh_yaYv3IIYFTfz8ktIatRVXjF3L"
+    }
+}

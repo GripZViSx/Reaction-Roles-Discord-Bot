@@ -1,0 +1,69 @@
+{
+    "normal": {
+        "error": "❌",
+        "check": "",
+        "music": "Not Required",
+        "volume": "Not Required",
+        "ball": "Not Required",
+        "christmas": "Not Required",
+        "heart": "Not Required",
+        "paper": "Not Required",
+        "scissors": "Not Required",
+        "stone": "Not Required",
+        "pong": "Not Required",
+        "birthday": "Not Required",
+        "clock": "Not Required",
+        "gift": "Not Required",
+        "medal": "Not Required",
+        "party": "Not Required",
+        "info": "Not Required",
+        "arrowDown": "Not Required",
+        "arrowUp": "Not Required",
+        "dcredits": "Not Required",
+        "tv": "Not Required",
+        "slash": "Not Required"
+    },
+
+    "Bot": {
+        "add": "Not Required",
+        "info": "Not Required",
+        "min": "Not Required"
+    },
+
+    "economy": {
+        "pocket": "Not Required",
+        "bank": "Not Required",
+        "coins": "Not Required"
+    },
+
+    "music": {
+        "next": "Not Required",
+        "pause": "Not Required",
+        "previous": "Not Required",
+        "stop": "Not Required",
+        "play": "Not Required"
+    },
+
+    "badges": {
+        "bot": "Not Required",
+        "management": "Not Required",
+        "bug": "Not Required",
+        "developer": "Not Required",
+        "supporter": "Not Required",
+        "team": "Not Required",
+        "booster": "Not Required",
+        "partner": "Not Required",
+        "voter": "Not Required",
+        "support": "Not Required",
+        "moderator": "Not Required",
+        "designer": "Not Required",
+        "active": "Not Required",
+        "event": "Not Required",
+        "vip": "Not Required",
+        "marketing": "Not Required"
+    },
+
+    "animated": {
+        "loading": "Not Required"
+    }
+}
