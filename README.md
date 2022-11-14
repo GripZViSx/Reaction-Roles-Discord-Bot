@@ -1,5 +1,5 @@
 # Reaction-Roles-Discord-Bot
-**Startup**
+# **Startup**
 To Start, Fork This Repo To Your Host And Do The Following Steps
 - Create a file named `.env`
 - Paste The Following Things In That File
@@ -22,7 +22,7 @@ CLIENT_ID=
 - Following are the `id` and `token` in your webhook url - [Click Here](https://media.discordapp.net/attachments/947480428481224758/1041745689715146814/km_20221114_720p.gif)
 - In [This](https://github.com/GripZViSx/Reaction-Roles-Discord-Bot/blob/main/src/config/webhooks.json) put both of them in all the sections.
 
-**How To Make Reaction Roles**
+# **How To Make Reaction Roles**
 Mention The Bot And The Help Will Be Provided
 
 Join My Discord Server For Help/Query
