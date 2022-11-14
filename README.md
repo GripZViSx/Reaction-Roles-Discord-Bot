@@ -20,6 +20,7 @@ CLIENT_ID=
 - Go To [This](https://github.com/GripZViSx/Reaction-Roles-Discord-Bot/blob/main/src/config/webhooks.json) Section Of File
 - Create A Webhook in your Discord server and make a logging channel for your bot . Make a webhook in that channel and copy it's link.
 - Now To Get `id` and `token` do the following steps what is done in the below gif
+![](https://media.discordapp.net/attachments/947480428481224758/1041745689715146814/km_20221114_720p.gif)
 - 
 After Doing All Just Join My Discord Server
 https://dsc.gg/stacx-dev
